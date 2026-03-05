@@ -1,63 +1,71 @@
-## 💻 Full-Stack Developer
+# Full-Stack Developer
 
-### I build production-style systems using TypeScript, React, and Node.js, focusing on authentication, secure API design, multi-tenant systems, and automated testing.
+### I build TypeScript systems with a focus on secure APIs, multi-tenant architectures, and reliable deployments.
 
-My projects explore real engineering concerns such as authentication flows, RBAC authorization, input validation, testing strategies, and CI/CD pipelines. I aim to structure applications the way production services are built: with clear service boundaries, maintainable architecture, and reproducible deployments.
+Most of my projects explore real backend engineering problems: authentication flows, RBAC authorization, idempotent endpoints, validation layers, and CI/CD pipelines. I try to structure applications the way production services are built with clear responsibilities, strong typing, automated testing, and reproducible deployments.
+
+---
 
 ## Selected Projects
 
 ### 📊 [Vitesse CRM](https://github.com/MikeMikeRx/vitesse-crm)
 
-Production-style CRM Accounting platform.
+Full-stack CRM platform focused on secure accounting workflows.
 
-Key features:
-- Authentication and role-based access
-- Invoice and quote management
-- Input validation and security controls
-- Automated testing and CI/CD
+- Authentication and role-based access control  
+- Invoice and quote management  
+- Strong **schema validation with Zod**  
+- Automated testing and CI/CD with Docker
 
-Tech stack:
-React.js • Node.js • MongoDB • Zod • Docker • Vitest
+Stack: React.js • Node.js • MongoDB • Zod • Docker • Vitest
 
 ---
 
 ### 📝 [Ticket Bounty](https://github.com/MikeMikeRx/ticket-bounty)
 
-Full-stack platform for creating and managing issue bounties.
+Full-stack platform demonstrating relational data modelling and validation patterns.
 
-Key features:
-- Session authentication
-- Prisma database modelling
-- Strong validation layer
-- End-to-end testing
+- Session-based authentication  
+- Database modelling with **Prisma & PostgreSQL**  
+- Type-safe validation for user input  
 
-Tech stack:
-Next.js • PostgreSQL • Prisma • Zod
+Stack: Next.js • PostgreSQL • Prisma • Tailwind CSS
 
 ---
 
-### ⚙️ [Operis API](https://github.com/MikeMikeRx/operis-operations-core)
+### ⚙️ [Operis Core API](https://github.com/MikeMikeRx/operis-operations-core)
 
-Backend API demonstrating production backend patterns.
+Multi-tenant backend API exploring production backend patterns.
 
-Features:
-- Multi-tenant architecture
-- RBAC authorization
-- Refresh token rotation
-- Idempotent API endpoints
-- Audit logging
+- Implemented **idempotent API endpoints** to handle retries and partial failures safely  
+- Built **RBAC authorization** and **refresh token rotation** for secure authentication  
+- Added **audit logging** to track administrative and cross-tenant actions  
 
-Tech stack:
-Node.js • PostgreSQL • Prisma
+Stack: Node.js • PostgreSQL • Prisma
 
 ---
 
-## Tooling
+## 🛠️ Tools & Technologies
 
-🧪 **Testing & Quality**:
-Vitest • Playwright • ESLint • Zod
+**Frontend:** React • Next.js • Tailwind
 
-🚀 **DevOps**:
-Docker • GitHub Actions • CI/CD pipelines • Production deployments
+**Backend:** Node.js • TypeScript • REST APIs
 
+**Databases:** PostgreSQL • MongoDB • Redis
 
+**Testing:** Vitest • Playwright • ESLint
+
+**DevOps:** Docker • GitHub Actions • CI/CD
+
+---
+
+## Engineering Approach
+
+- Prefer **type-safe systems** to reduce runtime errors  
+- Automate builds, tests, and deployments wherever possible  
+- Treat authentication and validation as core parts of the system, not add-ons
+
+---
+
+[LinkedIn](www.linkedin.com/in/michal-rais-1996x
+) • [Portfolio](https://github.com/MikeMikeRx?tab=repositories) • [Email](michal.rais@icloud.com)
