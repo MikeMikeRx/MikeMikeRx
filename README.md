@@ -1,13 +1,13 @@
 ## Selected Projects
 
 ### 📊 [Vitesse CRM](https://github.com/MikeMikeRx/vitesse-crm)
-Full-stack CRM platform focused on secure accounting workflows.
+Full-stack CRM and accounting platform for managing clients, quotes, invoices, and payments with structured financial workflows.
 
 ### 📝 [Ticket Bounty](https://github.com/MikeMikeRx/ticket-bounty)
-Full-stack platform demonstrating relational modelling and validation patterns.
+Full-stack ticket bounty platform where clients post issues and developers compete with solutions, with rewards assigned to the best submission.
 
 ### ⚙️ [Operis Core API](https://github.com/MikeMikeRx/operis-operations-core)
-Multi-tenant backend API exploring production backend patterns.
+Multi-tenant backend engine designed for industrial operations, handling workflows, resource coordination, and scalable business logic through a modular API architecture.
 
 ## Tech Stack
 
