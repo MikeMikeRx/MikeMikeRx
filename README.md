@@ -1,3 +1,9 @@
+## Professional Experience
+
+### 📱 Frontend Developer | ShopQuick-AI
+
+Building a production **React Native & Expo** grocery shopping application, contributing to mobile feature architecture, API integrations, and **AI-assisted shopping experiences**.
+
 ## Selected Projects
 
 ### 📊 [Vitesse CRM](https://github.com/MikeMikeRx/vitesse-crm)
@@ -13,15 +19,5 @@ Multi-tenant API for managing internal business operations with RBAC, audit logg
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,postgres,mongodb,docker)](https://skillicons.dev)
 
-**Frontend:**
-React • Next.js • Tailwind CSS
-
-**Backend:**
-Node.js • NestJS • Express
-
-**Databases:**
-PostgreSQL • MongoDB • Redis • Prisma
-
-**DevOps:**
-Docker • GitHub Actions • CI/CD
-
+**Current Focus:**
+Advanced SQL, Database Design, and PostgreSQL Performance Tuning
