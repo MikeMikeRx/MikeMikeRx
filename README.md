@@ -1,7 +1,3 @@
-## 📱 Frontend Developer | ShopQuick-AI
-
-Building a production **React Native & Expo** grocery shopping application, contributing to mobile feature architecture, API integrations, and **AI-assisted shopping experiences**.
-
 ## Selected Projects
 
 ### 📊 [Vitesse CRM](https://github.com/MikeMikeRx/vitesse-crm)
