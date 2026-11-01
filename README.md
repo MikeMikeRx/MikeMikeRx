@@ -12,6 +12,3 @@ Multi-tenant API for managing internal business operations with RBAC, audit logg
 ## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,postgres,mongodb,docker)](https://skillicons.dev)
-
-**Current Focus:**
-Advanced SQL, Database Design, and PostgreSQL Performance Tuning
